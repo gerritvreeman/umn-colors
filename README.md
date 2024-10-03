@@ -1,4 +1,4 @@
-# The UMN Color Pallette
+# The UMN Color Palette
 
 Adapted from https://university-relations.umn.edu/resources/colors-and-type
 
